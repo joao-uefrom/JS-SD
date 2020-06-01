@@ -1,0 +1,7 @@
+{
+    "_comment": "Modelo de JSON referente a tabela ALUNO",
+    "id": 0,
+    "matricula": 12345,
+    "media": 1.5,
+    "nome": "Nome do Aluno"
+}

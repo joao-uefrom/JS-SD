@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--Modelo de XML referente a tabela CARDAPIO-->
+<cardapio id="0">
+    <porcoes>1</porcoes>
+    <preco>1.5</preco>
+    <prato>Nome do Prato</prato>
+</cardapio>
