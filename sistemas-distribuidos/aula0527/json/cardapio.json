@@ -1,0 +1,7 @@
+{
+    "_comment": "Modelo de JSON referente a tabela CARDAPIO",
+    "id": 0,
+    "porcoes": 1,
+    "preco": 1.5,
+    "prato": "Nome do Prato"
+}

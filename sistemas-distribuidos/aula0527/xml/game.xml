@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--Modelo de XML referente a tabela GAME-->
+<game id="0">
+    <ano>2020</ano>
+    <nota>1.5</nota>
+    <nome>Nome do Game</nome>
+</game>
