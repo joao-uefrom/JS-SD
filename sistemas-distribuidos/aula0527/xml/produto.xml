@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--Modelo de XML referente a tabela PRODUTO-->
-<produto id="0">
-    <quantidade>12345</quantidade>
-    <preco>1.5</preco>
-    <descricao>Descrição do Produto</descricao>
-</produto>

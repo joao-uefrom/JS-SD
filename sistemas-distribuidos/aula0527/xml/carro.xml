@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--Modelo de XML referente a tabela CARRO-->
-<carro id="0">
-    <ano>2020</ano>
-    <nota>1.5</nota>
-    <modelo>Modelo do Carro</modelo>
-</carro>

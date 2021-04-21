@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!--Modelo de XML referente a tabela ALUNO-->
-<aluno id="0">
-    <matricula>12345</matricula>
-    <media>1.5</media>
-    <nome>Nome do Aluno</nome>
-</aluno>

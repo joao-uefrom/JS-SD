@@ -1,7 +1,0 @@
-{
-    "_comment": "Modelo de JSON referente a tabela CARRO",
-    "id": 0,
-    "ano": 2020,
-    "nota": 1.5,
-    "modelo": "Modelo do Carro"
-}

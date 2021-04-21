@@ -1,7 +1,0 @@
-{
-    "_comment": "Modelo de JSON referente a tabela PRODUTO",
-    "id": 0,
-    "quantidade": 12345,
-    "preco": 1.5,
-    "descricao": "Descrição do Produto"
-}
